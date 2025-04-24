@@ -36,6 +36,8 @@ The data for each restaurant was extracted and stored into a series of spreadshe
   - Peak activity seen in August–September, possibly influenced by promotions or seasonal trends such as school holidays.
   - Most revenue came from low and medium spenders suggests a potential to personalise offers for those groups.
 
+<br/>
+
   ## Restaurant Sales and Dishes
 
   This dashboard analyses sales performance down to individual dishes and categories, highlighting which items drive revenue and where discounts are most impactful. It supports data-driven menu curation and promotional strategies.
@@ -60,7 +62,7 @@ The data for each restaurant was extracted and stored into a series of spreadshe
   - Categories like _Vegetable Sides_ and _Rice_ account for large sales volumes confirming their central role in meal structures.
   - Discounts are used relatively moderately, so there is potential to test promotions in underperforming categories.
   - Dish-level insights guide stock management, price revisions, and promotional planning.
- 
+
 </details>
 
 <details>
@@ -78,8 +80,10 @@ The data for each restaurant was extracted and stored into a series of spreadshe
    
   ### Insights and Conclusions
 
-  - 
-
+  -
+  
+  <br/>
+  
   ## Restaurant Sales and Dishes
 
   This dashboard 
