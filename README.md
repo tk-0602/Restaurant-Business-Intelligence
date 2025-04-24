@@ -11,6 +11,8 @@ A collection of Power BI dashboards developed during my time as a Junior Data An
 
   This dashboard provides an end-to-end analysis of customer engagement at The Curry Bengal, based on data from 16/06/2023 to 14/09/2024. It explores trends in customer acquisition, segmentation, consent types, order behaviour, and total spending.
 
+  <img src = "TCB_Customer_Insights.png">
+
   ### Visuals and Metrics
 
   - **New vs Returning Customers (Donut Chart)**: Highlights retention performance; a larger returning customer base suggests effective loyalty or satisfaction.
@@ -35,6 +37,8 @@ A collection of Power BI dashboards developed during my time as a Junior Data An
   ## Restaurant Sales and Dishes
 
   This dashboard analyses sales performance down to individual dishes and categories, highlighting which items drive revenue and where discounts are most impactful. It supports data-driven menu curation and promotional strategies.
+
+  <img src = "TCB_Restaurant_Sales_and_Dishes.png">
 
   ### Visuals and Metrics
 
@@ -64,6 +68,8 @@ A collection of Power BI dashboards developed during my time as a Junior Data An
 
   This dashboard 
 
+  <img src = "RT_Customer_Insights.png">
+
   ### Visuals and Metrics
 
   - 
@@ -75,6 +81,8 @@ A collection of Power BI dashboards developed during my time as a Junior Data An
   ## Restaurant Sales and Dishes
 
   This dashboard 
+
+  <img src = "RT_Restaurant_Sales_and_Dishes.png">
 
   ### Visuals and Metrics
 
